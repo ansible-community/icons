@@ -15,11 +15,12 @@ Community,102442,crowd.svg
 Development,102442,file-code-outline.svg
 Packaging,102442,package-variant-closed.svg
 PostgreSQL,102442,postgresql.svg
+Release-Management,102442,rocket-launch.svg
 MySQL,102442,mysql.svg
 AAP,102442,autorenew.svg
 Linode,102442,linode.svg
 DigitalOcean,102442,digitalocean.svg
-Storage,102442,package-variant.svg
+Storage,102442,nas.svg
 Jboss,102442,tools.svg
 Lockdown,102442,home-account.svg
 Azure,102442,azure.svg
@@ -40,4 +41,5 @@ Conf-DevPart,f15b55,human-greeting-proximity.svg
 Conf-UserEngage,f15b55,human-male-board-poll.svg
 Conf-Workshops,f15b55,human-edit.svg
 Conf-ContribSum,f15b55,hand-extended-outline.svg
+Meetup-Orgs,f15b55,meetup.svg
 EventDriven,0,lightbulb-on.svg
