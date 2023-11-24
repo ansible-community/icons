@@ -23,7 +23,7 @@ When you need to create a new icon, follow these steps to update the CSV file us
   -	'f15b55' -> Ansible Conferences
   -	'000000' -> Neighbouring Projects
 - For the Icon heading, fill in the file name of the svg you downloaded as is.
-- Save the CSV file and open the "Template.svg" file in Inkscape.
+- Save the CSV file and open the "element_icons_base.svg" file in Inkscape.
 - Navigate to Extensions > Export > NextGenerator…
 - Ensure the following options are filled in correctly:
   - 'CSV file:' should point to the path of your CSV file with the data (e.g., '../Ansible-Icons/spreadsheet.csv').
